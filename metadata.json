@@ -1,0 +1,9 @@
+{
+  "name": "ReVibe",
+  "description": "Your conscious closet, curated. Discover, swap, and style sustainable fashion with your community.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
